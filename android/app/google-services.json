@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "154864920121",
+    "firebase_url": "https://smart-city-garbage-management-default-rtdb.firebaseio.com",
+    "project_id": "smart-city-garbage-management",
+    "storage_bucket": "smart-city-garbage-management.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:154864920121:android:380e435a10ff8e959b8fe8",
+        "android_client_info": {
+          "package_name": "dustbinapp.dustbin_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "154864920121-720tqcaokl3g4h6g4pf2131iq10b28t6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrG9pe3pnwgHHsDgjtW3nEGK8Nxdo0jik"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "154864920121-720tqcaokl3g4h6g4pf2131iq10b28t6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
